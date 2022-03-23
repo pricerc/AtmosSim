@@ -19,7 +19,7 @@
             new Gas(GasIndex.GAS_N2, "Nitrogen", 78.0 / 100.0, Color.Silver, Color.Silver.ToArgb()),
             new Gas(GasIndex.GAS_O2, "Oxygen", 21.0 / 100.0, Color.Goldenrod, Color.Goldenrod.ToArgb()),
             new Gas(GasIndex.GAS_Ar, "Argon", 1.0 / 100.0, Color.Gold, Color.Gold.ToArgb()),
-            new Gas(GasIndex.GAS_H20, "Water", 3.5 / 100.0, Color.Blue, Color.Blue.ToArgb()),
+            new Gas(GasIndex.GAS_H20, "Water", 2.0 / 100.0, Color.Blue, Color.Blue.ToArgb()),
             new Gas(GasIndex.GAS_CO2, "CO2", 400.0 / 1000000.0, Color.Green, Color.Green.ToArgb()),
             new Gas(GasIndex.GAS_ACO2, "Human CO2", 15.0 / 1000000.0, Color.Red, Color.Red.ToArgb()),
         };
